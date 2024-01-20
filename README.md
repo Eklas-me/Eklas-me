@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eklas-me
 - 👀 I’m interested in Codeing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Java for mobile application development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
